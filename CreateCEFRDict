@@ -73,7 +73,7 @@ df.to_excel("output.xlsx",sheet_name='AllWords')
 
 # move file to the selected folder
 source = os.path.abspath("output.xlsx") 
-destination = "/Users/alexsmac/Desktop/output.xlsx"
+destination = "*****.xlsx"
 shutil.move(source,destination)
 
 # the end
