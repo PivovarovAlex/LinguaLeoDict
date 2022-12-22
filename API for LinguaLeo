@@ -6,8 +6,8 @@ import httplib2
 import urllib3
 import requests
 from http.client import HTTPSConnection
-login = "alv.pivovarov@gmail.com"
-password = "snitch123"
+login = ..."
+password = "..."
 API_URL = "https://api.lingualeo.com/"
 response = requests.Session()
 auth_status = None
