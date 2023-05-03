@@ -1,1 +1,1 @@
-# LinguaLeoDict
+# Lingualeo_dictionary
